@@ -29,4 +29,6 @@ $URLAUTHMJKN = "https://localhost/auth"; // URL Auth Mobile JKN
 $USERNAMEAUTHMJKN = "usermjkn"; // Username untuk Auth
 $PASSWORDAUTHMJKN = "passwordmjkn"; // Password untuk Auth
 
+// KONFIGURASI VCLAIM AUTH
+
 ?>
