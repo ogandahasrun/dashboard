@@ -104,7 +104,7 @@ if ($row_instansi = mysqli_fetch_assoc($result_instansi)) {
             <img src="images/farmasi.png" alt="Farmasi">
             <span>Farmasi</span>
         </a>
-        <a href="keuangan.php" class="menu-item">
+        <!-- <a href="keuangan.php" class="menu-item">
             <img src="images/keuangan.png" alt="Keuangan">
             <span>Keuangan</span>
         </a>
@@ -127,12 +127,12 @@ if ($row_instansi = mysqli_fetch_assoc($result_instansi)) {
         <a href="pengadaan.php" class="menu-item">
             <img src="images/pengadaan.png" alt="Pengadaan">
             <span>Pengadaan</span>
-        </a>
+        </a> -->
         <a href="bpjs.php" class="menu-item">
             <img src="images/bpjs.png" alt="BPJS">
             <span>BPJS</span>
         </a>
-        <a href="jasapelayanan.php" class="menu-item">
+        <!-- <a href="jasapelayanan.php" class="menu-item">
             <img src="images/jasapelayanan.png" alt="Jasa Pelayanan">
             <span>Jasa Pelayanan</span>
         </a>
@@ -143,7 +143,7 @@ if ($row_instansi = mysqli_fetch_assoc($result_instansi)) {
         <a href="nonmedis.php" class="menu-item">
             <img src="images/nonmedis.png" alt="Barang Non Medis">
             <span>Barang Non Medis</span>
-        </a>
+        </a> -->
     </div>
 
     <a href="logout.php" class="logout">Logout</a>
